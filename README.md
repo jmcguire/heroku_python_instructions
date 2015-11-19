@@ -2,7 +2,7 @@
 
 This project shows you how to deploy a Python project to Heroku.
 
-The code that comes with this project is working example of a small Python project that can be easily deployed to Heroku.
+The code that comes with this project is working example of a small Python project that can be easily deployed to Heroku. To see the project in action, https://blooming-tor-8165.herokuapp.com/ .
 
 Here are the basic steps to create a Heroku app.
 
@@ -11,6 +11,7 @@ Here are the basic steps to create a Heroku app.
  - Add some Heroku-specific files
  - Add it to a Git repository
  - Deploy to Heroku
+
 
 
 ## INSTALL HEROKU
