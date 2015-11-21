@@ -87,6 +87,10 @@ This does two things. First it creates a spot for app on Heroku's servers, you c
 
 To actually deploy, you just push your code to the heroku server.
 
+    $ heroku login
+
+You have to this, just once, before you deploy.
+
     $ git push heroku master
 
 It will tell you if you're successful or not. If not, it helpfully tells you almost nothing why. If you want to learn what really happened, go to your dashboard, go into your project, and check the logs.
