@@ -119,11 +119,7 @@ A lot of people want to use or modify an external file with Heroku. You can't re
 
 ## CREDITS
 
-Justin McGuire
-
-Email: <jm@landedstar.com>
-
-Twitter: @lifefeed
+Justin McGuire &mdash; <jm@landedstar.com> &mdash; <a href="https://twitter.com/landedstar">@landedstar.com</a> &mdash; http://landedstar.com
 
 
 ## LICENSE
