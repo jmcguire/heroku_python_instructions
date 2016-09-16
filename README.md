@@ -116,6 +116,8 @@ Launch the app on your computer.
 
 A lot of people want to use or modify an external file with Heroku. You can't realy do this, since Heroku doesn't have a filesystem. Instead you *can* have a website that dynamically creates the file everytime it is called, like you cane make the website respond to /my_feed.xml and create it on the fly. *Or* you can store files on Amazon's S3 service, which has a limited free trial.
 
+Want to push a non-master branch to Heroku? Do this first: `git config remote.heroku.push +HEAD:refs/heads/master`.
+
 
 ## CREDITS
 
